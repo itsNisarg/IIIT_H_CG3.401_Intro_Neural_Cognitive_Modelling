@@ -1,0 +1,2 @@
+# IIIT_H_CG3.401_Intro_Neural_Cognitive_Modelling
+Assignments and stuff
